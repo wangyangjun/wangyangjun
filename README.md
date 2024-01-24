@@ -1,5 +1,5 @@
 # Hi there, this is Yangjun Wang 👋
-A full-stack software engineer with about 10 years working experience. <br>
+A full-stack software engineer with about 10 years working experience.
 Contact me if you have any opportunities or collaboration ideas.
 
 - Tech stack:
@@ -23,5 +23,5 @@ Contact me if you have any opportunities or collaboration ideas.
 
 
 ## 📊 GitHub Stats(public repositories):
-![](https://github-readme-stats.vercel.app/api?username=wangyangjun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wangyangjun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wangyangjun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wangyangjun&theme=dark&hide_border=false)
