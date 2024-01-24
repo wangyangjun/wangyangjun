@@ -6,7 +6,7 @@ Contact me if you have any opportunities or collaboration ideas.
   - React, Typescript/Javascript
   - Node.js, Golang, Java, Python
   - Postgres, MySQL
-  - GCP, AWS
+  - GCP, AWS, Kubernetes
 - 🔭 I’m currently working on a FinTech project
   - **Backend**: Golang, GraphQL(gqlgen)，Postgres
   - **Frontend**: Typescript, React, Apollo-client, Tailwindcss
@@ -17,6 +17,9 @@ Contact me if you have any opportunities or collaboration ideas.
 - 🤔 I’m looking for help with Web3 projects or mentorship
 - 📫 How to reach me:
   - Email: yangjun.wang90@gmail.com
+
+## Certificate
+<img src="./ckad.jpg" width="200">
 
 
 ## 📊 GitHub Stats(public repositories):
